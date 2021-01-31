@@ -1,5 +1,5 @@
-#Coded By Zidan-ID\King Mr_Z17
-#YouTube Mr_Z17
+#Coded By alantlk
+#YouTube :(
 #Vortex Indonesia
 import os,sys,time
 
